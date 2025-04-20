@@ -40,14 +40,14 @@ The purpose of **Portavue** is to provide:
 
 1. Download or clone the repo.
 2. Edit the `index.html`, update content, and add your own images.
-3. Customize styles via `style.css`.
+3. Customize styles via `main.css`.
 4. Deploy to GitHub Pages, Netlify, or your own server.
 
 ---
 
 ## 📸 Live Preview
 
-_(Add a live link or preview image here)_
+![Portavue Preview](assets/img/portavue.png)
 
 ---
 
